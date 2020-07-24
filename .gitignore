@@ -1,3 +1,7 @@
+# Data folder hidden SORRY! Trust me, its just a few json files
+data/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
